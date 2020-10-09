@@ -1,5 +1,7 @@
 package other
 
-func FooBar() {
+import "github.com/nano-adhara/test-commons/pkg/some"
+
+func Bar(some some.Some) {
 
 }
